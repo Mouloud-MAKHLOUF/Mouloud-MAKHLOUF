@@ -5,7 +5,7 @@
 ### Hi there 👋 I'm MAKHLOUF Mouloud
 > Master 2 student in Computer Science Student At [Paris Cité University](https://u-paris.fr/) 
 
- I have always sought out opportunities and challenges that are meaningful to me.
+ I have always sought out opportunities and challenges that are meaningful to me.<br>
  "Carpe diem, quam minimum credula postero" 
  
 
