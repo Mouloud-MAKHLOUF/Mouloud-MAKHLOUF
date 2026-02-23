@@ -6,7 +6,8 @@
 > Master 2 student in Computer Science Student At [Paris Cité University](https://u-paris.fr/) 
 
  I have always sought out opportunities and challenges that are meaningful to me.
- I've never stopped engaging my passion of learning and solving problems.
+ "Carpe diem, quam minimum credula postero" 
+ 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mouloud-MAKHLOUF&label=Profile%20views&color=0e75b6&style=flat" alt="Mouloud-MAKHLOUF" /> </p>
