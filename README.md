@@ -3,9 +3,8 @@
 
 
 ### Hi there 👋 I'm MAKHLOUF Mouloud
-> Master 2 student in Computer Science Student At [Paris Cité University](https://u-paris.fr/) 
-
- I have always sought out opportunities and challenges that are meaningful to me.<br>
+> PhD student At [Paris Cité University](https://u-paris.fr/) 
+ <br>
  "Carpe diem, quam minimum credula postero" 
  
 
